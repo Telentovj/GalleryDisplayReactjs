@@ -1,0 +1,21 @@
+
+*{
+
+  font-family: Helvetica;
+  text-align: center;
+}
+
+
+.App{
+  margin-top: 100px;
+}
+
+.buttonGroup{
+  padding: 25px 0px 50px 0px;
+}
+
+.image{
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}

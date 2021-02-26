@@ -27,7 +27,7 @@ function App() {
 
    return (
     <div className="App">
-      <h1>NodeFlair</h1>
+      <h1>Gallery Display</h1>
       <ButtonGroup className="buttonGroup">
                     <Button variant="secondary" onClick={() => setView("Beaches")}>Beaches</Button>
                     <Button variant="secondary" onClick={() => setView("Birds")}>Birds</Button>
